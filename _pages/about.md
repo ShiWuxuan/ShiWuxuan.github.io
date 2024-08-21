@@ -26,7 +26,7 @@ I am a Ph.D. student in <a href="https://cs.whu.edu.cn/">School of Computer Scie
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/PRAKA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning](http://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Prototype_Reminiscence_and_Augmented_Asymmetric_Knowledge_Aggregation_for_Non-Exemplar_Class-Incremental_ICCV_2023_paper.pdf)
@@ -38,7 +38,7 @@ I am a Ph.D. student in <a href="https://cs.whu.edu.cn/">School of Computer Scie
 </div>
 </div>
 
-- <div class="badge">ACM MM 2022</div> [Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution](https://arxiv.org/pdf/2306.00386), **Wuxuan Shi**, Mang Ye, Bo Du.
+- <div class="badge">ACM MM 2022</div> <div> [Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution](https://arxiv.org/pdf/2306.00386), **Wuxuan Shi**, Mang Ye, Bo Du. </div> 
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
