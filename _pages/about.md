@@ -40,23 +40,23 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-;- [Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution](https://arxiv.org/pdf/2306.00386), **Wuxuan Shi**, Mang Ye, Bo Du, **ACM MM 2022**
+- [Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution](https://arxiv.org/pdf/2306.00386), **Wuxuan Shi**, Mang Ye, Bo Du, **ACM MM 2022**
 
-;# 🎖 Honors and Awards
-;- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-;- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- # 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations
 - *2022.09 - now*, Ph.D. candidate, School of Computer Science, Wuhan University. 
 - *2018.09 - 2022.06*, Undergraduate, School of Computer Science, Wuhan University.
 
-# :busts_in_silhouette: Services
+# 🙇 Services
 - *Conference reviewer*: CVPR, ECCV, NeurIPS, etc. 
 - *Journal reviewer*: TIP.
 
-;# 💬 Invited Talks
-;- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-;- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!--# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) 
 
-; # 💻 Internships
-; - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
