@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution](https://arxiv.org/pdf/2306.00386), **Wuxuan Shi**, Mang Ye, Bo Du, **ACM MM 2022**
+- ``ICML 2023`` [Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution](https://arxiv.org/pdf/2306.00386), **Wuxuan Shi**, Mang Ye, Bo Du, **ACM MM 2022**
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
