@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👀 Short Bio
+
 I am a Ph.D. student in <a href="https://cs.whu.edu.cn/">School of Computer Science at Wuhan University</a>, advised by <a href="https://marswhu.github.io/">Prof. Mang Ye</a>. My research interests include machine learning and its applications in computer vision, currently focusing on **continual learning** and **multimodal large language models**. If you are interested in collaborating with me, always feel free to contact me through e-mail or <a href="images/wechat.jpg">Wechat</a> :)
 
 
@@ -38,7 +40,7 @@ I am a Ph.D. student in <a href="https://cs.whu.edu.cn/">School of Computer Scie
 </div>
 </div>
 
-- <div class="badge">ACM MM 2022</div> <div> [Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution](https://arxiv.org/pdf/2306.00386), **Wuxuan Shi**, Mang Ye, Bo Du. </div> 
+- ``ACM MM 2022`` [Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution](https://arxiv.org/pdf/2306.00386), **Wuxuan Shi**, Mang Ye, Bo Du.
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
