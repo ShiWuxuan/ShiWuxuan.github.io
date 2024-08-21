@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wuxuan Shi \n (施武轩)"
+title                    : "Wuxuan Shi (施武轩)"
 description              : "Ph.D. candidate, School of Computer Science."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wuxuan Shi (施武轩)"
+  name             : "Wuxuan Shi  \n (施武轩)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Wuhan University"
   location         : "Wuhan, China"
