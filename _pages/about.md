@@ -28,6 +28,18 @@ I am a Ph.D. student in <a href="https://cs.whu.edu.cn/">School of Computer Scie
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/PRL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Prospective Representation Learning for Non-Exemplar Class-Incremental Learning](https://openreview.net/pdf?id=ZtDARpmbun)
+
+**Wuxuan Shi**, Mang Ye
+
+ <strong><span class='show_paper_citations' data='p5jF5dAAAAAJ:IjCSPb-OGe4C'></span></strong>
+- Prepare the model for handling conflicts of old and new classes in advance.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/PRAKA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
