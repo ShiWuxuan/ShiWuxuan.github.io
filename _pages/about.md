@@ -28,6 +28,18 @@ I am a Ph.D. student in <a href="https://cs.whu.edu.cn/">School of Computer Scie
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/PRL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Synthetic Data is an Elegant GIFT for Continual Vision-Language Models](https://arxiv.org/pdf/2503.04229)
+
+Bin Wu\*, **Wuxuan Shi\***, Jinqiao Wang, Mang Ye
+
+[**Code**](https://github.com/Luo-Jiaming/GIFT_CL) <strong><span class='show_paper_citations' data='p5jF5dAAAAAJ:zYLM7Y9cAGgC'></span></strong>
+- Using synthetic data to help VLMs achieve a better balance between maintaining generalization capabilities and learning downstream tasks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/PRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
