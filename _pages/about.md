@@ -28,6 +28,19 @@ I am a Ph.D. student in <a href="https://cs.whu.edu.cn/">School of Computer Scie
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/PKA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Prototype-guided knowledge propagation with adaptive learning for lifelong person re-identification](https://www.ijcai.org/proceedings/2025/651)
+
+Zhijie Lu\*, **Wuxuan Shi\***, He Li, Mang Ye
+
+[**Code**](https://github.com/joyner-7/IJCAI2025-PKA) <strong><span class='show_paper_citations' data='p5jF5dAAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+- A lifelong person re-identification method with prototype improved triplet loss and dynamic weight updates.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/GIFT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,6 +77,7 @@ Bin Wu\*, **Wuxuan Shi\***, Jinqiao Wang, Mang Ye
 </div>
 </div>
 
+- ``IEEE TMM 2025`` [Feature Dispersion Adaptation With Pre-Pooling Prototype for Continual Image Classification]([https://arxiv.org/pdf/2306.00386](https://ieeexplore.ieee.org/abstract/document/11250594)), **Wuxuan Shi**, Mang Ye, Wei Yu, Bo Du.
 - ``ACM MM 2022`` [Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution](https://arxiv.org/pdf/2306.00386), **Wuxuan Shi**, Mang Ye, Bo Du.
 
 <!-- # 🎖 Honors and Awards
