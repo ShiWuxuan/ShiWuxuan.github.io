@@ -22,9 +22,12 @@ redirect_from:
 I am a Ph.D. student in <a href="https://cs.whu.edu.cn/">School of Computer Science at Wuhan University</a>, advised by <a href="https://marswhu.github.io/">Prof. Mang Ye</a>. My research interests include machine learning and its applications in computer vision, currently focusing on **continual learning** and **multimodal large language models**. If you are interested in collaborating with me, always feel free to contact me through e-mail or <a href="images/wechat.jpg">Wechat</a> :)
 
 
-<!--# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+# 🔥 News
+- *2026.05*: &nbsp;🎉🎉 I am honored to receive the **ICML 2026 Golden Reviewer** award!
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by **ICML 2026**!
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted by **IEEE TMM**!
+- *2025.10*: &nbsp;🎉🎉 I am honored to receive the **National Scholarship**!
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by **IJCAI 2025**!
 
 # 📝 Publications 
 
@@ -77,7 +80,7 @@ Bin Wu\*, **Wuxuan Shi\***, Jinqiao Wang, Mang Ye
 </div>
 </div>
 
-- ``IEEE TMM 2025`` [Feature Dispersion Adaptation With Pre-Pooling Prototype for Continual Image Classification]([https://arxiv.org/pdf/2306.00386](https://ieeexplore.ieee.org/abstract/document/11250594)), **Wuxuan Shi**, Mang Ye, Wei Yu, Bo Du.
+- ``IEEE TMM 2025`` [Feature Dispersion Adaptation With Pre-Pooling Prototype for Continual Image Classification](https://ieeexplore.ieee.org/document/11250594), **Wuxuan Shi**, Mang Ye, Wei Yu, Bo Du.
 - ``ACM MM 2022`` [Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution](https://arxiv.org/pdf/2306.00386), **Wuxuan Shi**, Mang Ye, Bo Du.
 
 <!-- # 🎖 Honors and Awards
